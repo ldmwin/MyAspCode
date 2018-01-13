@@ -1,0 +1,80 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*body {
+	background-color: #f8f8f8;
+	color: #666666;
+	font-size: 12px;
+	line-height: normal;
+	font-family: "宋体",arial,helvetica, sans-serif;
+	margin:0px;
+}*/
+#windows {
+	background:url(../images/main_bg_t.png);
+	margin:0px auto;
+	width:550px;
+	height:500px;
+	
+
+	/*margin-top:10px;*/
+	margin-bottom:10px;
+	/*overflow: scroll; */
+	overflow-x: hidden;
+	overflow-y:scroll;
+	/*overflow:-moz-scrollbars-vertical !important;*/
+
+	
+	scrollbar-3dlight-color:#d7c4a0; 
+	scrollbar-arrow-color:#f9f9f9; 
+	scrollbar-base-color:#f4f4f4; 
+	scrollbar-darkshadow-color:#f9f9f9; 
+	scrollbar-face-color:#e8dbc9; 
+	scrollbar-highlight-color:#f9f9f9; 
+	scrollbar-shadow-color:#d7c4a0;
+	
+}
+/*#main {
+	background:url(../images/main_bg.png);
+	width:550px;
+	height:auto;
+}*/
+
+
+.windows_title {
+	width:550px;
+	height:50px;
+	line-height:50px;
+	/*margin-top:20px;*/
+	margin-bottom:0px;
+	text-align:center;
+}
+.windows_line {
+	width:450px;
+	height:1px;
+	margin-top:0px;
+	margin-bottom:10px;
+	margin-left:50px;
+	overflow: hidden;
+	background:url(../images/main_line_d.gif);
+}
+.windows_pic {
+	width:550px;
+	height:auto;
+	margin-top:20px;
+	text-align:center;
+	/*vertical-align:middle;*/
+}
+.windows_text {
+	width:450px;
+	height:auto;
+	margin-top:20px;
+	margin-left:50px;
+	margin-bottom:20px;
+	line-height:23px;
+}
+.windows_text p {
+	width:450px;
+	height:auto;
+	margin-top:5px;
+	line-height:23px;
+	text-indent:30px;
+}

@@ -1,0 +1,10 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.member_text {
+	width:580px;
+	height:auto;
+	line-height:28px;
+	letter-spacing:1px;
+	font-size:12px;
+	/*margin-top:15px;*/
+}

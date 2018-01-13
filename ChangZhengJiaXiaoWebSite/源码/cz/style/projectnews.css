@@ -1,0 +1,104 @@
+﻿@charset "utf-8";
+/* CSS Document */
+#projectnews_imp_box {
+	width:550px;
+	height:80px;
+}
+#projectnews_imp_pic {
+	display:inline;
+	float:left;
+	width:150px;
+	height:80px;
+}
+#projectnews_imp_text {
+	display:inline;
+	float:right;
+	width:350px;
+	height:80px;
+}
+#projectnews_imp_title {
+	width:350px;
+	height:30px;
+	line-height:30px;
+	letter-spacing:2px;
+}
+#projectnews_imp_texttext {
+	width:350px;
+	height:50px;
+	line-height:25px;
+	letter-spacing:1px;
+	overflow:hidden;
+}
+#projectnews_box {
+	width:550px;
+	height:auto;
+	margin-top:40px;
+}
+.projectnews_list {
+	width:550px;
+	height:25px;
+	line-height:25px;
+	text-indent:30px;
+	letter-spacing:1px;
+	background: url(../images/6.gif) no-repeat 0 center;
+}
+#projectnews_page {
+	width:550px;
+	height:40px;
+	line-height:40px;
+	margin-top:20px;
+	border-top:1px solid #993333;
+	letter-spacing:2px;
+	text-align:center;
+}
+#projectnews_more {
+	width:550px;
+	height:40px;
+	line-height:40px;
+	margin-top:20px;
+	border-top:1px solid #993333;;
+	text-align:right;
+}
+
+/*项目动态具体页*/
+#merchantsnewsdetail_title {
+	width:550px;
+	height:30px;
+	text-align:center;
+	letter-spacing:2px;
+	border-bottom:1px solid #FFFFFF;
+}
+#merchantsnewsdetail_other {
+	width:550px;
+	height:30px;
+	line-height:30px;
+	text-align:right;
+	letter-spacing:1px;
+}
+#merchantsnewsdetail_text {
+	width:550px;
+	height:auto;
+	line-height:25px;
+	margin-top:20px;
+}
+
+/*政府支持*点击放大css*/
+#govsupport_pic_box {
+	width:550px;
+	height:auto;
+}
+.govsupport_pic {
+	display:inline;
+	float:left;
+	width:110px;
+	height:73px;
+	margin-top:10px;
+	margin-left:20px;
+	text-align:center;
+}
+.govsupport_pic span {
+	width:110px;
+	height:25px;
+	line-height:25px;
+	margin-top:10px;
+}

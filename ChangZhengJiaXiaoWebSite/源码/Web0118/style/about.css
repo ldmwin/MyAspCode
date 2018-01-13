@@ -1,0 +1,67 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+#about_title {
+	width:600px;
+	height:50px;
+	font-size:14px;
+	line-height:50px;
+	font-weight:bold;
+	letter-spacing:3px;
+	text-align:center;
+}
+
+.honor_pic {
+	display:inline;
+	float:left;
+	width:150px;
+	height:200px;
+	margin-top:20px;
+	margin-left:30px;
+}
+.honor_pic span {
+	display:block;
+	width:150px;
+	height:50px;
+	line-height:25px;
+	text-align:center;
+	letter-spacing:2px;
+}
+
+/*新闻*/
+#news_top {
+	width:600px;
+	height:auto;
+	margin-top:20px;
+}
+.news_top_left {
+	display:inline;
+	float:left;
+	width:90px;
+	height:120px;
+	margin-top:10px;
+	margin-left:10px;
+}
+.news_top_right {
+	display:inline;
+	float:right;
+	width:400px;
+	height:auto;
+	margin-top:10px;
+	margin-left:10px;
+}
+.news_top_righttitle {
+	width:400px;
+	height:30px;
+	line-height:30px;
+	margin-top:10px;
+	font-weight:bold;
+	letter-spacing:1px;
+}
+.news_top_righttext {
+	width:400px;
+	height:auto;
+	line-height:25px;
+	margin-top:10px;
+	letter-spacing:1px;
+}

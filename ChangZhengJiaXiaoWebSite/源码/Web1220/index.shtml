@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="#" /> 
+	<meta name="robots" content="all" />
+	<meta name="keywords" content="长征驾校，邢台，邢台市长征机动车驾驶员培训学校，驾照" />
+	<meta name="description" content="邢台市长征驾驶员培训学校,是一所以培训驾驶员为主,办理各种驾驶、行驶证件、年审、换证、申批等业务。本校师资力量雄厚，办学历史悠久，学校规模宏大，管理正规，曾连续几年被评为“优秀驾校”、“办学先进单位”、“信得过单位”。 本校现有从业多年的优秀教练数十名，“耐心教育，细心指导，把每位学员都培养成合格人才。”是本校的办学宗旨。为让学员更为深刻的学习和了解专业知识，最近学校又斥资数万元，首家引进最新模拟教学设备，相信，来本校学习会让你学习到最新、最专业的知识，长征驾校会让你踏遍理想的沃土，世界的角落。" />
+	<title>邢台市长征驾驶员培训学校-长征驾校欢迎您!</title>
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+	<link href="style/basic.css" rel="stylesheet" type="text/css" />
+	<link href="style/main.css" rel="stylesheet" type="text/css" />
+	<link href="style/default.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+	<!--顶部开始-->
+		<!--#include file="scontrol/top.html"-->
+	<!--顶部结束-->
+
+<!--容器开始-->
+	<div id="container">
+		
+		<div><img src="images/index_flash.jpg" width="1000" height="370" /></div>
+		
+<!--主体开始-->
+		<div id="main1" style="background:#ededed;">
+			<div><!--中间左右开始-->
+			<div id="index_main_left">
+				<div id="index_mainleft_left">
+					<div class="title">
+						<div class="title_left">驾校简介 |</div>
+						<div class="title_right">more >></div>
+					</div>
+					<div id="index_intro">
+						<div id="index_intro_left"><img src="images/index_flash.jpg" width="170" height="120" /></div>
+						<div id="index_intro_right">
+							<div id="index_intro_righttitle">邢台市长征驾校简介</div>
+							<div id="index_intro_righttext">邢台市长征驾校简介内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内....[<a href="#">详细</a>]</div>
+						</div>
+						<div style="clear:both;"></div>
+					</div>
+				</div>
+				<div id="index_mainleft_right">
+					<div class="title" style="width:270px;">
+						<div class="title_left">校内新闻 |</div>
+						<div class="title_right">more >></div>
+						<div style="clear:both;"></div>
+					</div>
+					<div id="index_news">
+						<div class="index_news_text">邢台市长征驾校简介</div>
+						<div class="index_news_text">邢台市长征驾校简介</div>
+						<div class="index_news_text">邢台市长征驾校简介</div>
+						<div class="index_news_text">邢台市长征驾校简介</div>
+						<div class="index_news_text">邢台市长征驾校简介</div>
+					</div>
+				</div>
+				<div style="clear:both;"></div>
+				<div id="index_mainleft_bottom">
+					<div class="index_mainleft_bottombox" style="margin-left:21px;"><a href="#"><img src="images/index_flash.jpg" width="218" height="98" /><span>用车须知</span></a></div>
+					<div class="index_mainleft_bottombox" style="margin-left:21px;"><a href="#"><img src="images/index_flash.jpg" width="218" height="98" /><span>报名指南</span></a></div>
+					<div class="index_mainleft_bottombox" style="margin-left:21px;"><a href="#"><img src="images/index_flash.jpg" width="218" height="98" /><span>联系方式</span></a></div>
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+			<div id="index_main_right">
+				<div id="index_main_righttitle"><img src="images/right_top_pic.jpg" width="250" height="55" /></div>
+				<div id="index_main_rightpic">
+					<div style="height:200px;"></div>
+					<div style="width:215px; line-height:23px; margin-left:12px;">邢台市长征驾校邢台市长征驾校邢台市长征驾校邢台市长征驾校邢台市长征驾校邢台市长征驾校...[详细]</div>
+				</div>
+			</div>
+			
+			</div><!--中间左右结束-->
+
+			<div style="clear:both;"></div>	
+			
+			<div id="index_bottom">
+				<div class="title" style="width:960px;">
+					<div class="title_left">教学风采 |</div>
+					<div class="title_right">more >></div>
+					<div style="clear:both;"></div>
+				</div>
+				
+				<div id="index_bottom_box">
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div class="index_bottom_boxpic"><img src="images/index_flash.jpg" width="100" height="100" /><span>风采</span></div>
+					<div style="clear:both;"></div>
+				</div>
+				
+			</div>
+			
+			
+			<div id="column_box">
+				<div class="column_box_pic"><a href="#"><img src="../images/index_flash.jpg" width="218" height="98" /><span>模拟考试</span></a></div>
+				<div class="column_box_pic"><a href="#"><img src="../images/index_flash.jpg" width="218" height="98" /><span>长征风采</span></a></div>
+				<div class="column_box_pic"><a href="#"><img src="../images/index_flash.jpg" width="218" height="98" /><span>报名指南</span></a></div>
+				<div class="column_box_pic"><a href="#"><img src="../images/index_flash.jpg" width="218" height="98" /><span>联系方式</span></a></div>
+				<div style="clear:both;"></div>
+			</div>
+		
+		</div>
+<!--主体结束-->
+<!--尾部开始-->
+		
+		
+		
+		
+	</div>
+<!--尾部结束-->
+		<!--<div style="clear:both;"></div>-->
+<!--主体结束-->
+	</div>
+<!--容器结束-->
+		<div id="footer">
+			<!--<div class="main_line"></div>-->
+			<div id="footer_nav"><div style="width:1000px; margin:0 auto;">友情网站：&nbsp; <a href="#" target="_blank">车管所</a> | <a href="#" target="_blank">驾校一点通</a> | <a href="#" target="_blank">邢台信息港</a></div></div>
+			<div id="footer_copyright">联系电话： **********   联系地址：%%%%%%%%%%%%%%%%%%%%%%%          Copyright &nbsp;&nbsp;</div>
+		</div>
+		
+</body>
+</html>

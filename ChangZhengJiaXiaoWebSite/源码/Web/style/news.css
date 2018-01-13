@@ -1,0 +1,88 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+/*新闻李彪*/
+#news_top {
+	width:600px;
+	height:auto;
+	margin-top:20px;
+}
+.news_top_left {
+	display:inline;
+	float:left;
+	width:120px;
+	height:90px;
+	margin-top:20px;
+	margin-left:10px;
+}
+.news_top_right {
+	display:inline;
+	float:right;
+	width:450px;
+	height:auto;
+	margin-top:20px;
+	margin-left:10px;
+}
+.news_top_righttitle {
+	width:450px;
+	height:20px;
+	line-height:20px;
+	font-weight:bold;
+	letter-spacing:1px;
+}
+.news_top_righttext {
+	width:450px;
+	height:auto;
+	line-height:25px;
+	margin-top:5px;
+	letter-spacing:1px;
+}
+#news_bottom {
+	width:580px;
+	height:auto;
+	margin-top:50px;
+	margin-left:20px;
+}
+.news_bottom_box {
+	width:560px;
+	height:30px;
+	line-height:30px;
+	border-bottom:1px dotted #999999c;
+}
+.news_bottom_text {
+	display:inline;
+	float:left;
+	width:460px;
+	height:30px;
+	line-height:30px;
+}
+.news_bottom_time {
+	display:inline;
+	float:right;
+	width:100px;
+	height:30px;
+	line-height:30px;
+	text-align:right;
+}
+#newsdetail_time {
+	width:600px;
+	height:16px;
+	line-height:16px;
+	text-align:right;
+	border-top:1px solid #999999;
+}
+#newsdetail_title {
+	width:600px;
+	height:50px;
+	font-size:14px;
+	line-height:50px;
+	font-weight:bold;
+	letter-spacing:3px;
+	text-align:center;
+}
+#newsdetail_text {
+	width:600px;
+	height:auto;
+	margin-top:30px;
+}

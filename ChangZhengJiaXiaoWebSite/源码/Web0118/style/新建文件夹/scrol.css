@@ -1,0 +1,26 @@
+﻿@charset "utf-8";
+.bodyer{width:600px;margin:20px auto auto;/*border:1px dotted #fff;*//*background:#fff;*/}	
+.t_rt{text-align:right;}
+h1,h2,h3,h4,h5,h6{font-weight:bold;margin:0px;padding:0px;font-size:12px;}
+ul,li{margin:0px;padding:0px;}
+li{list-style-type:none;}
+h1{margin:10px;padding-right:10px;padding-bottom:5px;/*border-bottom:1px dotted #ccc;*/}
+.preview{margin:10px;padding:10px;overflow:hidden;/*background:#fff;*/ width:600px; display:inline; float:left;}
+.cont{padding:10px;}
+.cls{clear:both;}
+.hidden{display:none;}
+#sourse{/*border:1px dotted #ccc;*/width:600px;height:390px;margin:0px auto;}
+.textDiv{margin:10px 40px 10px;text-align:center;}
+h2{margin:0px 10px;/*background:#fff;*/padding:5px;}
+.example{margin:10px;/*background:#FFF;*//*border:1px dotted #ccc;*/padding:10px;}
+.scrolldoorFrame{width:600px;overflow:hidden;}
+.scrollUl{width:600px;/*border-bottom:1px solid #CCC;*/overflow:hidden;height:35px; margin-top:8px;}
+.scrollUl li{float:left;}
+
+#c01 { width:600px;}
+/*主体内容*/
+.bor03{/*border:1px solid #ccc;*//*border-top-width:0px;*/ width:600px; margin-top:20px; /*background: #efdebb;*//*border:1px solid #ffffff;*/}
+
+/*选项卡*/
+.sd01{cursor:pointer;border:1px solid #fff;/*background:#FFF;*/margin:5px;padding:2px;/*font-weight:bold; */border:1px solid #fff;  width:120px; height:16px; line-height:16px; background:#420820; color:#ffffff; text-align:center;}
+.sd02{cursor:pointer;border:0px solid #fff;margin:5px;padding:2px; width:120px; height:16px; line-height:16px; background:#ffffff; border:1px solid #663300; color:#420820; text-align:center;}

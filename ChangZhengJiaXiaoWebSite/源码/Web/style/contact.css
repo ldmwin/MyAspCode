@@ -1,0 +1,23 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.complete_text {
+	width:400px;
+	height:25px;
+	line-height:25px;
+	margin-left:100px;
+	letter-spacing:1px;
+	color:#ffffff;
+	border-bottom:1px dotted #CCCCCC;
+	margin-top:10px;
+}
+.contact_title {
+	width:450px;
+	height:30px;
+	line-height:30px;
+	font-weight:bold;
+	margin-left:50px;
+	letter-spacing:2px;
+	border-bottom:1px dotted #CCCCCC;
+	margin-top:10px;
+	color:#ffffff;
+}

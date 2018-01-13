@@ -1,0 +1,11 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.complete_text {
+	width:200px;
+	height:30px;
+	line-height:30px;
+	margin-left:50px;
+	color:#ffffff;
+	border-bottom:1px dotted #CCCCCC;
+	margin-top:10px;
+}

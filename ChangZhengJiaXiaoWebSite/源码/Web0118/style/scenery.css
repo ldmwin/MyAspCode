@@ -1,0 +1,37 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.coach_box {
+	width:600px;
+	height:auto;
+	margin-top:20px;
+}
+.coach_box_left {
+	display:inline;
+	float:left;
+	width:200px;
+	height:150px;
+	margin-top:20px;
+	margin-left:10px;
+}
+.coach_box_right {
+	display:inline;
+	float:right;
+	width:370px;
+	height:auto;
+	margin-top:20px;
+	margin-left:10px;
+}
+.coach_box_righttitle {
+	width:370px;
+	height:20px;
+	line-height:20px;
+	font-weight:bold;
+	letter-spacing:1px;
+}
+.coach_box_righttext {
+	width:370px;
+	height:auto;
+	line-height:25px;
+	margin-top:5px;
+	letter-spacing:1px;
+}
