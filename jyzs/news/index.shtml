@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="#" /> 
+	<meta name="robots" content="all" />
+	<meta name="keywords" content="家乐园，会员，客服，北京，邢台，百货，超市，商业，运营、盈广零售，地产，天一广场，顾客，服务，诚信" />
+	<meta name="description" content="家乐园集团秉承“立足河北、放眼全国”的发展战略，以持续改善大众生活品质为己任，引领时尚、健康，绿色的生活方式。" />
+	<title>家乐园集团</title>
+	<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+	<link href="../style/basic.css" rel="stylesheet" type="text/css" />
+	<link href="../style/main.css" rel="stylesheet" type="text/css" />
+	<link href="../style/news.css" rel="stylesheet" type="text/css" />
+	<script language=javascript>
+    function secBoard(n)
+    {
+    for(i=0;i<menu.childNodes.length;i++)
+    menu.childNodes[i].className="sec1";
+    menu.childNodes[n].className="sec2";
+    for(i=0;i<bottom_nav_text.childNodes.length;i++)
+    bottom_nav_text.childNodes[i].style.display="none";
+    bottom_nav_text.childNodes[n].style.display="block";
+    }
+    </script>
+</head>
+
+<body>
+
+<!--顶部开始-->
+	<!--#include file="../inc/header.html"-->
+<!--顶部结束-->
+
+<!--容器开始-->
+	<div id="container">
+<!--主体开始-->
+		<div id="main">
+		
+<!--主体上部flash开始-->
+			<!--#include file="../inc/main_boxtop.html"-->
+<!--主体上部flash结束-->
+
+<!--主体左侧开始-->
+			<!--#include file="../inc/news_left_nav.html"-->
+<!--主体左侧结束-->
+
+<!--主体右侧开始-->
+			<div id="main_right">
+				<div id="contact">
+					<div id="contact_left">
+						<div id="contact_left_title">新闻中心 &nbsp; News</div>
+						<div id="contact_left_box">
+							<div style="height:30px;"></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+							<div class="culture_list"><a href="newsdetail.shtml" target="_blank">新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题新闻标题</a></div>
+				
+						</div>
+					</div>
+					<div id="contact_right">
+						<div class="contact_right_pic"><img src="../images/05.jpg" width="125" height="75" /></div>
+						<div class="contact_right_pic"><img src="../images/05.jpg" width="125" height="75" /></div>
+						<div class="contact_right_pic"><img src="../images/05.jpg" width="125" height="75" /></div>
+					</div>
+					<div style="clear:both;"></div>
+				</div>
+			</div>	
+<!--主体右侧结束-->
+
+<!--主体底部开始-->
+
+			<!--#include file="../inc/main_bottom.html"-->
+
+<!--主体底部结束-->
+			
+		</div>	
+<!--主体结束-->
+
+	</div>
+<!--容器结束-->			
+
+<!--尾部容器开始-->
+	<!--#include file="../inc/footer.html"-->
+<!--尾部容器结束-->
+</body>
+</html>

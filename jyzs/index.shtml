@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="#" /> 
+	<meta name="robots" content="all" />
+	<meta name="keywords" content="家乐园，会员，客服，北京，邢台，百货，超市，商业，运营、盈广零售，地产，天一广场，顾客，服务，诚信" />
+	<meta name="description" content="家乐园集团秉承“立足河北、放眼全国”的发展战略，以持续改善大众生活品质为己任，引领时尚、健康，绿色的生活方式。" />
+	<title>家乐园集团</title>
+	<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+	<link href="style/basic.css" rel="stylesheet" type="text/css" />
+	<link href="style/main.css" rel="stylesheet" type="text/css" />
+	<link href="style/default.css" rel="stylesheet" type="text/css" />
+	<script language=javascript>
+    function secBoard(n)
+    {
+    for(i=0;i<menu.childNodes.length;i++)
+    menu.childNodes[i].className="sec1";
+    menu.childNodes[n].className="sec2";
+    for(i=0;i<bottom_nav_text.childNodes.length;i++)
+    bottom_nav_text.childNodes[i].style.display="none";
+    bottom_nav_text.childNodes[n].style.display="block";
+    }
+    </script>
+</head>
+
+<body>
+
+<!--顶部开始-->
+	<!--#include file="inc/header.html"-->
+<!--顶部结束-->
+
+<!--容器开始-->
+	<div id="container">
+<!--主体开始-->
+		<div id="index_main">
+		
+<!--主体上部flash开始-->
+			<!--#include file="inc/main_boxtop.html"-->
+<!--主体上部flash结束-->
+
+<!--主体上部页面位置开始-->
+			<div id="main_position">当前位置 > 首页</div>
+<!--主体上部页面位置结束-->
+
+<!--首页主体开始-->
+			<div id="index_box">
+			
+<!--首页主体左侧开始-->
+				<div id="index_left">
+				
+					<div id="bottom_nav_title">
+					<ul id="menu">
+						<li onMouseOver="secBoard(0)" class="sec2"><strong>公司新闻</strong></li>
+						<li onMouseOver="secBoard(1)" class="sec1"><strong>行业新闻</strong></li>
+						<li onMouseOver="secBoard(1)" class="sec1"></li>
+						<div style="clear:both;"></div>
+					</ul>
+					<div style="clear:both;"></div>
+					
+					<ul id="bottom_nav_text">
+						<li class="block">
+							<div class="index_left_text">
+								<div class="index_left_textdata">[2012-12-12]</div>
+								<div class="index_left_texttext"><a href="#">内容内容内容内容容内容内容内容内</a></div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="index_left_text">
+								<div class="index_left_textdata">[2012-12-12]</div>
+								<div class="index_left_texttext"><a href="#">内容内容内容内容容内容内容内容内</a></div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="index_left_text">
+								<div class="index_left_textdata">[2012-12-12]</div>
+								<div class="index_left_texttext"><a href="#">内容内容内容内容容内容内容内容内</a></div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="index_left_text">
+								<div class="index_left_texttext"><a href="#">更多...</a></div>
+							</div>
+							
+						</li>
+						
+						<li class="unblock">
+						
+							<div class="index_left_text">
+								<div class="index_left_textdata">[2012-12-12]</div>
+								<div class="index_left_texttext"><a href="#">内容内容内容内容容内容内容内容内</a></div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="index_left_text">
+								<div class="index_left_textdata">[2012-12-12]</div>
+								<div class="index_left_texttext"><a href="#">内容内容内容内容容内容内容内容内</a></div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="index_left_text">
+								<div class="index_left_textdata">[2012-12-12]</div>
+								<div class="index_left_texttext"><a href="#">内容内容内容内容容内容内容内容内</a></div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="index_left_text">
+								<div class="index_left_texttext"><a href="#">更多...</a></div>
+							</div>
+							
+						</li>
+					</ul>
+					</div>
+				
+					<div id="index_left_bottom"><img src="images/05.jpg" width="270" height="90" /></div>
+				</div>
+<!--首页主体左侧结束-->
+
+<!--首页主体中部开始-->
+				<div id="index_center">
+					<div id="bottom_nav_title" style="height:25px;">
+						<ul id="menu1">
+							<li class="sec2"><strong>产品图示</strong></li>
+							<li class="sec1" style="width:200px;"></li>
+							<div style="clear:both;"></div>
+						</ul>
+					</div>
+					<div style="clear:both;"></div>
+					<div style="height:10px;"></div>
+					
+					<div id="index_center_box">
+						<div class="index_center_pic"><a href="#"><img src="images/05.jpg" width="125" height="70" /></a></div>
+						<div class="index_center_pic"><a href="#"><img src="images/05.jpg" width="125" height="70" /></a></div>
+						<div class="index_center_pic"><a href="#"><img src="images/05.jpg" width="125" height="70" /></a></div>
+						<div class="index_center_pic"><a href="#"><img src="images/05.jpg" width="125" height="70" /></a></div>
+						<div class="index_center_pic"><a href="#"><img src="images/05.jpg" width="125" height="70" /></a></div>
+						<div class="index_center_pic"><a href="#"><img src="images/05.jpg" width="125" height="70" /></a></div>
+						<div style="clear:both;"></div>
+					</div>
+					<div id="index_center_more"><a href="#">更多...</a></div>
+				</div>
+<!--首页主体中部结束-->
+
+<!--首页主体右部开始-->
+				<div id="index_right">
+					<div id="index_right_box">
+						<div class="index_right_pic"><img src="images/05.jpg" width="180" height="100" /><span><a href="#">代理品牌1</a></span></div>
+						<div class="index_right_pic"><img src="images/05.jpg" width="180" height="100" /><span><a href="#">代理品牌2</a></span></div>
+					</div>
+				</div>
+<!--首页主体右部结束-->
+				
+				<div style="clear:both;"></div>
+			</div>
+<!--首页主体结束-->
+
+		</div>	
+<!--主体结束-->
+
+	</div>
+<!--容器结束-->			
+
+<!--尾部容器开始-->
+	<!--#include file="inc/footer.html"-->
+<!--尾部容器结束-->
+</body>
+</html>

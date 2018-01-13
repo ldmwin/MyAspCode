@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+margin: 0px;
+padding: 0px;
+}
+
+td {
+	padding:2px;
+	color:#433210;
+	letter-spacing:1px;
+}
+
+/*图片基础样式*/
+img {
+	border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px;
+}
+/*表单基础样式开始*/
+form {
+
+}
+/*输入框基础样式*/
+input {
+	border: #cccccc 1px solid; 
+}
+textarea{}/*文本框基础样式*/
+select {
+ 
+}/*下拉列表基础样式*/
+/*表单基础样式结束*/
+
+/*超链接基础样式开始*/
+a {
+	color: #313131; font-family: "宋体",arial,helvetica, sans-serif; blr:expression(this.onFocus=this.blur()); behavior:url(xuxian.htc);
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: #ff0000; text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+/*超链接基础样式结束*/
+
+
+/*各标题样式开始*/
+h1 {
+	height: 30px;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	line-height:30px;
+}
+h2 {
+	/*height: 40px;*/
+	font-size:12px;
+	line-height:25px;
+	letter-spacing:1px;
+	font-weight:normal;
+	text-indent:25px;
+	/*text-align: center;*/
+}
+h3 {
+	height: 20px;
+	/*color: #ff6600;*/
+	color:#ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	line-height:20px;
+}
+h4 {
+	color: #996633;
+	font-size: 12px;
+	font-weight: normal;
+	letter-spacing:2px;
+}
+h5 {
+	height: 15px;
+	color: #999999;
+	font-size: 14px;
+	/*font-weight: bold;*/
+	/*line-height:25px;*/
+}
+
+/*h6 {
+	display:inline;
+	height: 15px;
+	color: #666666;
+	font-size: 12px;
+	font-weight:normal;
+
+	letter-spacing: 12px;
+	white-space:nowrap;
+
+}*/
+/*各标题样式结束*/
+
+ul {
+	list-style-type: none;
+}
+p{
+	margin-top: 10px;
+	line-height: 25px;
+	text-indent: 25px;
+	color:#564214;
+	letter-spacing: 1px;
+	font-family: "宋体",arial,helvetica, sans-serif;
+}
+
+.btn19 {
+	width:45px;
+	height:20px;
+	font-size:12px;
+	font-family:"Arial","Tahoma","微软雅黑","雅黑";
+	border:0px;
+	cursor:hand;
+	background:url("../images/bg19.jpg") no-repeat left top;
+}
+.btn20 {
+	width:80px;
+	height:20px;
+	font-size:12px;
+	font-family:"Arial","Tahoma","微软雅黑","雅黑";
+	border:0px;
+	cursor:hand;
+	background:url("../images/bg20.jpg") no-repeat left top;
+}
